@@ -1,0 +1,2 @@
+This program will take an input in the form of a number and return to the user the total number of times the number '2' appears in all numbers between 0 and the number they chose.
+To Run the program use node and type 'node .' in the command line of the folder that contains index.js
